@@ -1,0 +1,5 @@
+# .gitignore
+messenger
+node_modules/
+*.txt
+tmp/
